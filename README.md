@@ -1,10 +1,27 @@
-# Getting Started with Create React App
+# Hi, I'm Vishal Chouhan
+I am a Full stack learner at Almabetter and this is my Second project on Play Quiz
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Play Quiz
 
-## Available Scripts
+This online platform make it easy for users to make quiz question.It is designed in such a way that
+user can use this platform in a user friendly manner.Play Quiz has given you choice of first making 
+quiz questions that you can allow to paly the quiz,for this create new quiz,make quizzes and play 
+quizzes are otions to the users.
 
-In the project directory, you can run:
+## Installation 
+
+If yu want work on the project clone this repository
+
+```bash
+https://github.com/VishalChouhan411/Play-Quiz
+```
+Open thi sproject in your local IDE and in the terminal do this cpmmand one by one
+- For Frontend
+```
+cd Quiz app
+npm install
+npm start
+```
 
 ### `npm start`
 
@@ -39,32 +56,28 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Deployment
+ Here is the link of the deployed project
+ ```
+ ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+By clicking the above link, you can see the project
 
-### Code Splitting
+## How to use
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. click on the below link
 
-### Analyzing the Bundle Size
+   ```https
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+   ```
+2. select the Create New Quiz.
+3. select MCQ(Single correct).
+4. Fill the create new quiz form.
+5. click on Add questions. 
+6. click on save button.
 
-### Making a Progressive Web App
+## Tech Used
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**Play Quiz:** React js
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
