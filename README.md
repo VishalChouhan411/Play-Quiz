@@ -68,4 +68,10 @@ By clicking the above link, you can see the project
 ## Tech Used
 
 **Play Quiz:** React js
+CSS
+HTML
+
+
+
+               
 
