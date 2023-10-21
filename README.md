@@ -47,7 +47,7 @@ Your app is ready to be deployed!
 ## Deployment
  Here is the link of the deployed project
  ```
-https://play-quiz-frontend.netlify.app/
+play-quizfrontend.netlify.app
 
  ```
 By clicking the above link, you can see the project
@@ -56,8 +56,8 @@ By clicking the above link, you can see the project
 
 1. click on the below link
 
-   ```https
-
+   ```
+   https://youtu.be/SaO6MKr_4Xw?feature=shared
    ```
 2. select the Create New Quiz.
 3. select MCQ(Single correct).
