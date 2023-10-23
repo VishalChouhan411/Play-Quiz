@@ -10,12 +10,12 @@ quizzes are otions to the users.
 
 ## Installation 
 
-If yu want work on the project clone this repository
+If you want work on the project clone this repository
 
 ```bash
 https://github.com/VishalChouhan411/Play-Quiz
 ```
-Open thi sproject in your local IDE and in the terminal do this cpmmand one by one
+Open this project in your local IDE and in the terminal do this command one by one
 - For Frontend
 ```
 cd Quiz app
@@ -26,15 +26,10 @@ npm start
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open(http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -68,8 +63,7 @@ By clicking the above link, you can see the project
 ## Tech Used
 
 **Play Quiz:** React js
-CSS
-HTML
+
 
 
 
